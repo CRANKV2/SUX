@@ -1,9 +1,14 @@
+<p align="center"><a href="https://t.me/AndroidRootModulesCommunity"><img src="https://imgur.com/2hcs4pt.jpeg" width="500"></a></p>
+
 # SUX - System Optimizer Magisk Module
 
 [![Version](https://img.shields.io/badge/Version-v1.0-blue.svg)](https://github.com/yourusername/STRP-SUX/releases/tag/v1.0)
 [![Magisk](https://img.shields.io/badge/Magisk-22%2B-brightgreen.svg)](https://github.com/topjohnwu/Magisk)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Author](https://img.shields.io/badge/Author-@CRANKV2-orange.svg)](https://github.com/CRANKV2)
+
+
+<h1 align="center"><b><a href="https://t.me/AndroidRootModulesCommunity"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a></b></h1>
 
 Unlock the full potential of your Android device with the SUX (System Optimizer) Magisk module. This module, crafted by @CRANKV2, delves deep into the kernel, enhancing performance, reducing latency, and providing an optimized Android experience.
 
