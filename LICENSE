@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2024 CRANKV2
+Copyright (c) 2024 STRP
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -12,10 +12,26 @@ furnished to do so, subject to the following conditions:
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+**THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+SOFTWARE.**
+
+**Additional Considerations:**
+
+1. **No Endorsement or Promotion:**
+   This license does not grant any rights to use the names, trademarks, service marks, or any other attributes of the STRP project or its contributors to endorse or promote products derived from this software without specific prior written permission.
+
+2. **Acknowledgment of Contributions:**
+   Redistributions of the software, in whole or in part, should include proper acknowledgment of the contributions made by the STRP project and its contributors.
+
+3. **Limitation of Liability:**
+   The authors and copyright holders shall not be liable for any claims, damages, or other liabilities arising out of the use or inability to use this software.
+
+4. **Support and Collaboration:**
+   Users are encouraged to collaborate, report issues, and contribute to the improvement of this software. Visit the official STRP project repository for support, discussions, and updates.
+
+By using this software, you acknowledge and agree to abide by the terms and conditions of this license.
