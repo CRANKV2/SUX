@@ -9,7 +9,7 @@
 [![KernelSU](https://img.shields.io/badge/KernelSU-69-red.svg)](https://kernelsu.org/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Author](https://img.shields.io/badge/Author-@CRANKV2-gold.svg)](https://github.com/CRANKV2)
-
+[![CoAuthor](https://img.shields.io/badge/CoAuthor-STRPxDEVS-gold.svg)](https://github.com/CRANKV2)
 
 
 <h1 align="center"><b><a href="https://t.me/AndroidRootModulesCommunity"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a></b></h1>
