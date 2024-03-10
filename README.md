@@ -1,39 +1,34 @@
 <p align="center"><a href="https://t.me/AndroidRootModulesCommunity"><img src="https://imgur.com/2hcs4pt.jpeg" width="500"></a></p>
 
-<h1 align="center"><b>SUX</a></b></h1>
-<h2 align="center"><b>System Optimizer Magisk Module</a></b></h2>
+<h1 align="center"><b>SUX</b></h1>
+<h2 align="center"><b>Autonomous System Manager Magisk Module</b></h2>
 
-
-[![Version](https://img.shields.io/badge/Version-v1.0-blue.svg)](https://github.com/yourusername/STRP-SUX/releases/tag/v1.0)
+[![Version](https://img.shields.io/badge/Version-v1.1-blue.svg)](https://github.com/yourusername/STRP-SUX/releases/tag/v1.1)
 [![Magisk](https://img.shields.io/badge/Magisk-22%2B-brightgreen.svg)](https://github.com/topjohnwu/Magisk)
 [![KernelSU](https://img.shields.io/badge/KernelSU-69-red.svg)](https://kernelsu.org/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Author](https://img.shields.io/badge/Author-@CRANKV2-gold.svg)](https://github.com/CRANKV2)
-[![CoAuthor](https://img.shields.io/badge/CoAuthor-STRPxDEVS-gold.svg)](https://github.com/CRANKV2)
-
 
 <h1 align="center"><b><a href="https://t.me/AndroidRootModulesCommunity"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a></b></h1>
 
-
-<h2 align="center"><b>Unlock the full potential of your Android device with the SUX (System Optimizer) Magisk module. This module, crafted by @CRANKV2, delves deep into the kernel, enhancing performance, reducing latency, and providing an optimized Android experience.</a></b></h2>
-
+<h2 align="center"><b>Unlock the full potential of your Android device with the SUX (System Optimizer) Magisk module. This module, crafted by @CRANKV2, now operates autonomously, making intelligent decisions based on user activities for an optimized Android experience.</b></h2>
 
 ## Features
 
-- **Performance Boost**: Unleash the hidden power of your device through targeted kernel optimizations.
-- **Latency Reduction**: Experience smoother interactions and reduced response times.
-- **Fine-Tuned Parameters**: Carefully adjusted settings for optimal performance without compromising stability.
+- **Autonomous Operation**: SUX now functions as an AI-driven system manager, dynamically adjusting settings based on real-time user activities.
+- **Enhanced Profiles**: Intelligently applies profiles for gaming, balanced usage, performance, and more, ensuring optimal performance in specific scenarios.
+- **Real-time App Detection**: Dynamically detects running apps and autonomously switches profiles for an optimal user experience.
 
 ## Installation
 
 1. Install this Magisk module through Magisk Manager or your preferred Magisk installation method.
 1a. KSU is (Should be) Supported!
 2. Reboot your device to apply the optimizations.
-3. Let the system Booting up and all should work after some seconds the .logs are avaiable trough the Module Directory Path.
+3. Let the system Booting up, and all should work after some seconds; the logs are available through the Module Directory Path.
 
 ## Usage
 
-Explore improved performance and responsiveness on your Android device after installation.
+SUX seamlessly adapts to various scenarios, such as gaming, video streaming, and productivity, ensuring that your device operates at its best in every situation.
 
 ## Logs and Support
 
